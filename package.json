@@ -1,0 +1,26 @@
+{
+  "name": "nativestyle",
+  "version": "1.0.0",
+  "description": "react native styles handler",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njnest/nativestyle.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-style",
+    "classnames",
+    "react-classnames"
+  ],
+  "author": "Nick Nesterov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njnest/nativestyle/issues"
+  },
+  "homepage": "https://github.com/njnest/nativestyle#readme"
+}
